@@ -1,0 +1,20 @@
+{
+  "name": "declarations-js",
+  "main": "./lib/declarations-js",
+  "version": "0.0.0",
+  "description": "Javascript package for Jump to Declaration",
+  "keywords": [],
+  "package-deps": ["declarations"],
+  "repository": "https://github.com/steelbrain/declarations-js",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "^4.0.1"
+  },
+  "private": true,
+  "devDependencies": {
+    "eslint-config-steelbrain": "^1.0.4"
+  }
+}
