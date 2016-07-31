@@ -6,6 +6,10 @@
   "package-deps": [
     "declarations"
   ],
+  "scripts": {
+    "test": "apm test",
+    "lint": "eslint ."
+  },
   "repository": "https://github.com/steelbrain/declarations-js",
   "license": "MIT",
   "engines": {
