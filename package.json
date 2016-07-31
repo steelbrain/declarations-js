@@ -3,14 +3,18 @@
   "main": "./lib/index",
   "version": "0.0.0",
   "description": "Javascript package for Jump to Declaration",
-  "package-deps": ["declarations"],
+  "package-deps": [
+    "declarations"
+  ],
   "repository": "https://github.com/steelbrain/declarations-js",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-package-deps": "^4.0.1"
+    "atom-package-deps": "^4.0.1",
+    "babel-traverse": "^6.12.0",
+    "babylon": "^6.8.4"
   },
   "private": true,
   "devDependencies": {
