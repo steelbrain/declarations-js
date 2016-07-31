@@ -1,6 +1,6 @@
 {
   "name": "declarations-js",
-  "main": "./lib/index",
+  "main": "./lib/index.js",
   "version": "0.0.0",
   "description": "Javascript package for Jump to Declaration",
   "package-deps": [
