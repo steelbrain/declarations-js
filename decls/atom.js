@@ -4,15 +4,11 @@
 declare var atom: Object;
 
 declare module 'atom' {
-  declare var Point: any;
   declare var Range: any;
-  declare var Panel: any;
   declare var TextEditor: any;
-  declare var TextBuffer: any;
-  declare var BufferMarker: any;
-  declare var TextEditorGutter: any;
-  declare var TextEditorMarker: any;
-  declare var Emitter: any;
-  declare var Disposable: any;
-  declare var CompositeDisposable: any;
 }
+
+declare function it(name: string, callback: (() => void)): void;
+declare function fit(name: string, callback: (() => void)): void;
+declare function expect(value: any): Object;
+declare function describe(name: string, callback: (() => void)): void;

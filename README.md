@@ -2,7 +2,19 @@
 
 Javascript package for Jump to Declaration
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Preview](https://cloud.githubusercontent.com/assets/4278113/17276513/b4bb8f40-56e0-11e6-8394-1edb164acbaa.gif)
+
+
+### Installation
+
+```
+apm install declarations-js
+```
+Or install `declarations-js` from settings view
+
+### Usage
+
+This package uses the base [`declarations`](https://atom.io/packages/declarations) package. Head over to it's README to know how to use this package.
 
 ### License
 
