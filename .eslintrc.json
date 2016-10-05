@@ -1,7 +1,7 @@
 {
   "extends": "steelbrain",
   "rules": {
-    "import/prefer-default-export": 0,
-    "no-duplicate-imports": 0
+    "import/prefer-default-export": "off",
+    "no-duplicate-imports": "off"
   }
 }
