@@ -1,5 +1,7 @@
 # declarations-js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/declarations-js.svg)](https://greenkeeper.io/)
+
 Javascript package for Jump to Declaration
 
 ![Preview](https://cloud.githubusercontent.com/assets/4278113/17276513/b4bb8f40-56e0-11e6-8394-1edb164acbaa.gif)
