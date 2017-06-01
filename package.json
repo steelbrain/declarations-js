@@ -31,5 +31,11 @@
         "1.0.0": "provideDeclarations"
       }
     }
-  }
+  },
+  "activationHooks": [
+    "language-javascript:grammar-used",
+    "language-javascript-comments:grammar-used",
+    "language-babel:grammar-used",
+    "language-babel-comments:grammar-used"
+  ]
 }
