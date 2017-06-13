@@ -1,6 +1,8 @@
 # declarations-js
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/declarations-js.svg)](https://greenkeeper.io/)
+[![Build status](https://ci.appveyor.com/api/projects/status/steelbrain/declarations-js?svg=true)](https://ci.appveyor.com/project/steelbrain/declarations-js)
+[![Build Status](https://travis-ci.org/steelbrain/declarations-js.svg?branch=master)](https://travis-ci.org/steelbrain/declarations-js)
 
 Javascript package for Jump to Declaration
 
